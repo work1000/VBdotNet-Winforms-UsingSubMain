@@ -8,3 +8,7 @@ C:\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication
 C:\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
 C:\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
 C:\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Github\VBdotNet-Winforms-UsingSubMain\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Github\VBdotNet-Winforms-UsingSubMain\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Github\VBdotNet-Winforms-UsingSubMain\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Github\VBdotNet-Winforms-UsingSubMain\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
